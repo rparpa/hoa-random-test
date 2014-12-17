@@ -1,0 +1,13 @@
+{
+    "name": "root/hoa-random-test",
+    "require": {
+        "hoa/compiler": "1.14.09.16",
+        "hoa/regex": "0.14.09.16"
+    },
+    "authors": [
+        {
+            "name": "Rémi Parpaillon",
+            "email": "remi.parpaillon@gmail.com"
+        }
+    ]
+}
